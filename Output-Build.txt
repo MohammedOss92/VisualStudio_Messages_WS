@@ -1,0 +1,18 @@
+﻿1>------ Build started: Project: WebApplication1, Configuration: Release Any CPU ------
+1>C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\MessagesWS.asmx.cs(68,30,68,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\MessagesWS.asmx.cs(136,30,136,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\MessagesWS.asmx.cs(195,30,195,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\MessagesWS.asmx.cs(253,30,253,32): warning CS0168: The variable 'ex' is declared but never used
+1>  WebApplication1 -> C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\bin\WebApplication1.dll
+2>------ Publish started: Project: WebApplication1, Configuration: Release Any CPU ------
+2>Transformed Web.config using C:\Users\MUNZ 1985\Documents\Visual Studio 2012\Projects\WebApplication11\WebApplication1\Web.Release.config into obj\Release\TransformWebConfig\transformed\Web.config.
+2>Auto ConnectionString Transformed obj\Release\TransformWebConfig\transformed\Web.config into obj\Release\CSAutoParameterize\transformed\Web.config.
+2>Copying all files to temporary location below for package/publish:
+2>obj\Release\Package\PackageTmp.
+2>Updating file (Default web site\Messages\bin\WebApplication1.dll).
+2>Adding ACL's for path (Default web site\Messages)
+2>Adding ACL's for path (Default web site\Messages)
+2>Publish Succeeded.
+2>
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
